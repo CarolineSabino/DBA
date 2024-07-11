@@ -12,7 +12,7 @@ Esses problemas podem resultar em vulnerabilidades de segurança, conformidade r
 
 ### Solução
 
-O documento "Gerenciamento de Acesso às Instâncias SQLServer" fornece uma solução abrangente para esses problemas por meio de uma série de procedimentos que garantem um controle eficiente e seguro dos acessos aos bancos de dados. 
+A documentação fornece uma solução abrangente para esses problemas por meio de uma série de procedimentos que garantem um controle eficiente e seguro dos acessos aos bancos de dados. 
 
 1. **Procedimentos Estruturados**: O manual detalha procedimentos específicos, como o spInserirDadosMonitoramentoUsuario, que garante que todas as permissões de acesso sejam registradas de maneira sistemática na tabela MonitoramentoUsuario. Isso inclui informações como nome do banco de dados, função do banco de dados, usuário, data de concessão da permissão e data de revogação da permissão.
 

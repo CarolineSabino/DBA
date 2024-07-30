@@ -4,8 +4,11 @@ Gerenciamento de acesso a instâncias SQLServer
 Em organizações que utilizam instâncias SQLServer para gerenciar seus bancos de dados, a administração de acessos de usuários é uma tarefa crítica que envolve diversos desafios. Entre os problemas comuns estão:
 
 Controle Inadequado de Permissões: A falta de um sistema estruturado para conceder e revogar permissões de acesso pode levar a acessos não autorizados, comprometendo a segurança dos dados.
+
 Monitoramento Ineficiente: Sem um monitoramento adequado, é difícil rastrear quem tem acesso a quais dados e quando essas permissões foram concedidas ou revogadas.
+
 Automação Insuficiente: A ausência de automação nos processos de gerenciamento de acessos aumenta o risco de erro humano e torna a administração de permissões mais lenta e suscetível a falhas.
+
 Esses problemas podem resultar em vulnerabilidades de segurança, conformidade regulatória inadequada e dificuldades na auditoria de acessos, colocando em risco a integridade e a confidencialidade dos dados corporativos.
 
 * Solução:
